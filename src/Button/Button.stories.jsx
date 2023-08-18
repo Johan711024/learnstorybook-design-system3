@@ -6,7 +6,7 @@ import { StoryLinkWrapper } from '../LinkWrapper';
 
 
 const CustomButton = styled.button`
-  border: 1px solid green;
+  border: 10px solid green;
   background: lightgreen;
   color: rebeccapurple;
   padding: 1em;
